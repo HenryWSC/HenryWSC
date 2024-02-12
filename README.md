@@ -1,5 +1,11 @@
 ### Hi there 👋
-My name is Henry Livett I'm currently learning 
+About me: My name is Henry Livett I'm currently learning at Western Springs College and my pronouns are He/Him
+
+Past creations: I have made 3d models of a kunai (for legal reasons it will be referred to as a gardening spade) and a spike factory from Bloons TD6.
+
+I'm currently working on: I am working on a website for my portfolio
+
+you can reach by emailing: livetth@wsc.school.nz
 <!--
 **HenryWSC/HenryWSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
